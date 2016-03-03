@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloFlow</string>
+    <string name="bb_message_1">Hi!</string>
+    <string name="bb_message_2">If you look at the logcat, you\'ll find the dispatcher called twice.</string>
+    <string name="bb_message_3">Some times you gotta wait a few seconds (~5 seconds)</string>
+    <string name="bb_message_4">Clicking on the button will simulate log in</string>
+    <string name="sign_in">Sign in with Google</string>
+</resources>
